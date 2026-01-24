@@ -1,10 +1,67 @@
-# 👋 Hi, I'm Hashim
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=70&lines=PLAYER+1:+HASHIM+KHAN;MISSION:+LEARNING+DEEP+TECH" alt="Pixel Header" />
+</div>
 
-I'm a curious Computer Science student who loves building games, exploring AI, and understanding the science behind how things really work — whether it's in a CPU, a simulation, or the world around us.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=50&lines=Sharpening+the+Axe...;Setting+up+Camp...;Compiling+the+World..." alt="Loading" />
+</div>
 
-I enjoy making stuff, breaking stuff, and actually learning things. I'm not satisfied with "it works" — I like asking *why* it works, *how* it breaks, and *what* makes it tick underneath. That mindset drives how I learn and build, whether I'm playing with timing in game logic or chasing down some weird phenomenon I read about.
+<div align="center">
+  <h3>👾 CHARACTER BIO 👾</h3>
+</div>
 
-My favorite projects are the ones where code, science, and creativity collide. If you're into game dev, strange ideas, or just deep tech conversations — let's connect!
+<p align="center">
+  I am a Computer Science student at FAST NUCES who treats learning like a main quest. <br/>
+  I don't just want to play the game—I want to know how the engine renders the pixels.
+</p>
 
-📫 [hashimatd02@gmail.com](mailto:hashimatd02@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/)
+<p align="center">
+  <strong>My Philosophy:</strong> Software should have a soul. <br/>
+  Whether it's low-level memory management in C++ or the logic behind an AI, I love understanding the "science" inside the computer—how it works and how it breaks.
+</p>
+
+---
+
+### 🎒 INVENTORY (SKILLS)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,linux,git&theme=dark" alt="My Skills" />
+  <br/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=12&pause=1000&color=FFD700&center=true&vCenter=true&width=400&height=30&lines=...UNLOCKING+NEW+SKILLS..." alt="Unlocking" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=java,go,pytorch,tensorflow&theme=dark" alt="Learning" />
+</div>
+
+---
+
+### 📜 QUEST LOG
+
+* 🗡️ **Game Development:** Crafting worlds, physics, and logic as a passionate enthusiast.
+* 🛡️ **Deep Systems:** Exploring the dungeons of OS and Assembly.
+* 🔮 **Arcane Intelligence:** Learning the math behind ML and AI.
+
+---
+
+### 📊 PLAYER STATS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hashimk101&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashimk101&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Languages" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=15&pause=1000&color=FF0000&center=true&vCenter=true&width=500&height=50&lines=CONTINUE?;" alt="Continue" />
+  
+  <br/>
+
+  <a href="mailto:hashimatd02@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hashim-khan-863a822b3/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+</div>
