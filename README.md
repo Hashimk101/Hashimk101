@@ -58,10 +58,10 @@
   <br/>
 
   <a href="mailto:hashimatd02@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hashim-khan-863a822b3/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  <a href="https://www.linkedin.com/in/hashim-k-70268b323">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
 </div>
