@@ -58,14 +58,6 @@
 
 </div>
 
-<br/>
-
-* **Deep Systems:** Exploring the dungeons of OS and Assembly.
-* **Arcane Intelligence:** Learning the math behind ML and AI.
-* **Machine Learning & Deep Learning:** Going deeper into the models themselves, not just calling them.
-* **Backend Server Design:** Learning how to architect and scale server-side systems properly.
-* **Game Development:** Crafting worlds, physics, and logic as a passionate enthusiast.
-
 ---
 
 ### CURRENTLY GRINDING
@@ -92,17 +84,6 @@ Near-Earth Object monitoring & visualization platform aggregating live data from
 </td>
 <td width="50%" valign="top">
 
-**[CityMind](https://github.com/Hashimk101/CityMind)**
-<br/>
-Grid-based AI simulation of an intelligent city solving five connected urban challenges — layout planning, road optimization, ambulance dispatch, emergency routing, and crime prediction — with a live Pygame visualizer.
-<br/>
-`Python` `Pygame` `scikit-learn` · Team (3)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **[Indicium](https://github.com/Hashimk101/Indicium)**
 <br/>
 Full-stack desktop forensic case management system with role-based access control, tamper-evident audit logging, and an emergency lockdown kill switch.
@@ -110,6 +91,8 @@ Full-stack desktop forensic case management system with role-based access contro
 `Java` `JavaFX` `PostgreSQL` · Team (3)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[FAST_TimeTable](https://github.com/Hashimk101/FAST_TimeTable)**
@@ -119,9 +102,7 @@ An all-in-one timetable and exam datesheet viewer built to compensate for FAST N
 `Python` `Web` · Solo
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 **[ChronoRift](https://github.com/Hadiah-Batool/Chrono_Rift)**
 <br/>
@@ -137,22 +118,13 @@ A multi-process, turn-based RPG combat system for an OS course — four separate
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 **[block_burst_AI](https://github.com/Hashimk101/block_burst_AI)**
 <br/>
 An AI built to beat my own high scores in Block Blast–style puzzle games.
 <br/>
 `Python` · Solo
-
-</td>
-<td width="50%" valign="top">
-
-**[Smart-City-DS-Project](https://github.com/Hashimk101/Smart-City-DS-Project)**
-<br/>
-A smart-city simulation built from custom C++ data structures, from scratch.
-<br/>
-`C++` · Solo
 
 </td>
 </tr>
