@@ -79,7 +79,7 @@
 <br/>
 Near-Earth Object monitoring & visualization platform aggregating live data from NASA/JPL (NeoWs, SBDB, Horizons) to track close approaches and visualize real asteroid trajectories.
 <br/>
-`Python` `Jupyter` `Data Viz` · Solo
+`Python` `Jupyter` `Data Viz` · Duo
 
 </td>
 <td width="50%" valign="top">
